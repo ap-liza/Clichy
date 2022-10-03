@@ -1,0 +1,117 @@
+.account{
+    padding:50px 0 ;
+    background: skyblue;
+}
+.formm{
+    background: white;
+    width: 300px;
+    height: 400px;
+    position: relative;
+    text-align: center;
+    padding: 20px 0;
+    margin: auto;
+    box-shadow: 0 0 20px 0px rgba(12, 123, 228, 0.1);
+    overflow: hidden;
+    
+}
+.formm span{
+    font-weight: bold;
+    padding: 0 10px;
+    cursor: pointer;
+    width: 100px;
+    display: inline-block;
+    color: skyblue;
+}
+.formm span:active{
+    border-bottom: 3px solid skyblue;
+}
+.form-btn{
+    display: inline-block;
+}
+.formm form{
+    max-width: 300px;
+    padding: 0 20px;
+    position: absolute;
+    top: 130px;
+    transition: transform 1s;
+}
+form input{
+    width: 100%;
+    height: 30px;
+    margin: 10px 0;
+    padding: 0 10px;
+    border: 1px solid skyblue;
+    border-radius: 10px;
+}
+form input:focus{
+    outline: none;
+}
+.btn-Login{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0;
+    background-color: skyblue;
+    color: white;
+    border-radius: 20px;
+}
+ .btn-register{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0;
+    background-color: skyblue;
+    color: white;
+    border-radius: 20px;
+}
+
+#loGin{
+    left: -300px;
+}
+#reGister{
+    left: 0;
+}
+form a{
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
